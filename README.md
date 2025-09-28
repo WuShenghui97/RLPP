@@ -60,9 +60,9 @@ The python version requires Python 3.9 or higher. Detailed user guide is given b
 
     - **Figure 2** `Fig2_NeuralModulation.m`: Individual neural modulation to the movements of neural recordings, RLPP predictions, and SLPP predictions; the differences in modulation between movements
     - **Figure 3** `Fig3_TimeDomain_And_SuccessRate.m`: Illustrating the model predictions in the time domain and comparing the statistical performance of generated neural activities
-    - **Figure 4** `Fig4_ChangeDecoder.m`: RLPP performance under different decoder settings
-    - **Figure 5** `Fig5_SpikePatterns.m`: Visualizing patterns of M1 spike ensembles using t-SNE
-    - **Figure 6** `Fig6_Information.m`: Results of information analysis for spike prediction models
+    - **Figure 4 and Supplementary Figure 4** `Fig4_ChangeDecoder_Supp_Fig4.m`: RLPP performance under different decoder settings
+    - **Figure 5** `Fig5_Information.m`: Results of information analysis for spike prediction models
+    - **Supplementary Figure 5** `Supp_Fig5_SpikePatterns.m`: Visualizing patterns of M1 spike ensembles using t-SNE
 - Outputs may slightly different from the figures in the paper due to the randomly in spike generation, which do not change the main points of the paper.
 
 
